@@ -1,0 +1,11 @@
+C:\Users\petur\source\repos\While Loops\The greatest number\bin\Debug\netcoreapp3.1\The greatest number.exe
+C:\Users\petur\source\repos\While Loops\The greatest number\bin\Debug\netcoreapp3.1\The greatest number.deps.json
+C:\Users\petur\source\repos\While Loops\The greatest number\bin\Debug\netcoreapp3.1\The greatest number.runtimeconfig.json
+C:\Users\petur\source\repos\While Loops\The greatest number\bin\Debug\netcoreapp3.1\The greatest number.runtimeconfig.dev.json
+C:\Users\petur\source\repos\While Loops\The greatest number\bin\Debug\netcoreapp3.1\The greatest number.dll
+C:\Users\petur\source\repos\While Loops\The greatest number\bin\Debug\netcoreapp3.1\The greatest number.pdb
+C:\Users\petur\source\repos\While Loops\The greatest number\obj\Debug\netcoreapp3.1\The greatest number.csprojAssemblyReference.cache
+C:\Users\petur\source\repos\While Loops\The greatest number\obj\Debug\netcoreapp3.1\The greatest number.AssemblyInfoInputs.cache
+C:\Users\petur\source\repos\While Loops\The greatest number\obj\Debug\netcoreapp3.1\The greatest number.AssemblyInfo.cs
+C:\Users\petur\source\repos\While Loops\The greatest number\obj\Debug\netcoreapp3.1\The greatest number.dll
+C:\Users\petur\source\repos\While Loops\The greatest number\obj\Debug\netcoreapp3.1\The greatest number.pdb
